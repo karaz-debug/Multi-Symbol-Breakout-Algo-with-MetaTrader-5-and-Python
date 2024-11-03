@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project implements a robust automated trading system that can backtest strategies on historical data and execute trades in real-time across multiple cryptocurrency symbols using MetaTrader 5 (MT5) and Python. The system incorporates risk management, performance tracking, logging, and visualization features to ensure effective and secure trading operations.
+This project implements a robust automated trading system that can execute trades in real-time across multiple cryptocurrency symbols using MetaTrader 5 (MT5) and Python. The system incorporates risk management, performance tracking, logging, and visualization features to ensure effective and secure trading operations.
 
 ## **Features**
 
